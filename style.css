@@ -72,7 +72,16 @@ body {
 
 .text {
     color: #dddf8f;
-    font-size: 10rem;
+    font-size: 7rem;
+    font-family: serif;
+    font-weight: bolder;
+    line-height: 0.8;
+    text-shadow: 0 0 40px #d7d886c7;
+}
+
+.fecha {
+    color: #dddf8f;
+    font-size: 2rem;
     font-family: serif;
     font-weight: bolder;
     line-height: 0.8;
